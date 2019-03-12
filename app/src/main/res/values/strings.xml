@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MiPrimeraAplicacion</string>
+    <string name="llamada">Llamada</string>
+    <string name="camara">Camara</string>
+    <string name="mensaje">Mensaje</string>
+</resources>
